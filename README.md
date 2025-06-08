@@ -1979,6 +1979,7 @@ Tools and software for [software testing](https://en.wikipedia.org/wiki/Software
 
 - [Bencher](https://bencher.dev/) - Suite of continuous benchmarking tools designed to catch performance regressions in CI. ([Source Code](https://github.com/bencherdev/bencher)) `MIT/Apache-2.0` `Rust`
 - [WebHook Tester](https://github.com/tarampampam/webhook-tester) - Powerful tool for testing WebHooks and more. `MIT` `Docker/Go/deb/K8S`
+- [Maxim](https://getmaxim.ai) - AI Agent Testing Platform
 
 
 ### Static Site Generators
